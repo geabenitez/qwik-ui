@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img width="400" src="./packages/website/public/qwik-ui.png" alt="awesome logo of qwik ui">
+  <img width="400" src="./packages/website/public/qwik-ui.png" alt="awesome logo of qwik ui">bla
   <br>
   <br>
 </p>
